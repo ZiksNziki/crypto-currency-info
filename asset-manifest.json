@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://ziksnziki.github.io/crypto-currency-info/static/css/main.1fb63b2f.css",
-    "main.js": "https://ziksnziki.github.io/crypto-currency-info/static/js/main.7baf16d5.js",
-    "index.html": "https://ziksnziki.github.io/crypto-currency-info/index.html",
-    "main.1fb63b2f.css.map": "https://ziksnziki.github.io/crypto-currency-info/static/css/main.1fb63b2f.css.map",
-    "main.7baf16d5.js.map": "https://ziksnziki.github.io/crypto-currency-info/static/js/main.7baf16d5.js.map"
+    "main.css": "/crypto-currency-info/static/css/main.1fb63b2f.css",
+    "main.js": "/crypto-currency-info/static/js/main.03e2cd61.js",
+    "index.html": "/crypto-currency-info/index.html",
+    "main.1fb63b2f.css.map": "/crypto-currency-info/static/css/main.1fb63b2f.css.map",
+    "main.03e2cd61.js.map": "/crypto-currency-info/static/js/main.03e2cd61.js.map"
   },
   "entrypoints": [
     "static/css/main.1fb63b2f.css",
-    "static/js/main.7baf16d5.js"
+    "static/js/main.03e2cd61.js"
   ]
 }
